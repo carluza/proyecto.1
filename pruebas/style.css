@@ -1,0 +1,87 @@
+.contenedor-navegacion-menu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-pagina{
+    width: 100px;
+}
+
+.boton-home{
+    margin-left: 200px;
+}
+
+.boton-home-link{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.boton-key{
+    
+}
+
+.boton-key-link{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.boton-princing{
+    margin-right: 150px;
+}
+
+.boton-princing-link{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.boton-faq{
+    
+}
+
+.boton-faq-link{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.boton-login{
+    margin-right: 200px;
+}
+
+.boton-login-link{
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+
+.contenedor-inicio{
+    
+}
+
+.titulo-inicio{
+
+}
+
+.subtitulo-inicio{
+
+}
+
+.parrafo-inicio{
+
+}
+
+.boton-contactame{
+    margin-top: 500px;
+}
+
+.imagen-presentacion{
+    width: 500px;
+    margin-left: 200px;
+}
+
+.link-contactame{
+
+}
+
+.contenedor-tarjetas-servicios{
+
+}
